@@ -1,0 +1,25 @@
+[Variables]
+; font name
+fname=Hasteristico
+; font-specific parameter
+lineheight=1.04
+; font-specific offset value
+offset=0.53
+; transparency of background text (0-255)
+bgalpha=192
+; color of labels
+color0=192,192,192
+; primary color
+color1=224,128,144
+; secondary color
+color2=160,224,64
+; tertiary color
+color3=255,208,96
+; additional color
+color4=176,192,255
+; color of background text
+bgcolor=96,96,96,#bgalpha#
+; color of drop-shadow
+shadow=32,32,32,80
+; "invisible" color
+invis=0,0,0,1
