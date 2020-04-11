@@ -1,2 +1,0 @@
-# git
-use github
